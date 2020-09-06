@@ -33,12 +33,11 @@ canvas {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
