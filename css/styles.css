@@ -16,6 +16,12 @@ img {
   display: none;
 }
 
+canvas {
+  height: 100%;
+  width: 100%;
+  margin: auto;
+}
+
 /*
 
 .my_social {
@@ -33,11 +39,6 @@ img {
   height: 1.5em;
 }
 
-canvas {
-  height: 100%;
-  width: 100%;
-  margin: auto;
-}
 
 .containers {
   width: 520px;
