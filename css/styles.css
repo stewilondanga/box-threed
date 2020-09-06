@@ -12,6 +12,10 @@ body {
   text-align: center;
 }
 
+img {
+  display: none;
+}
+
 /*
 
 .my_social {
@@ -29,9 +33,6 @@ body {
   height: 1.5em;
 }
 
-img {
-  display: none;
-}
 canvas {
   height: 100%;
   width: 100%;
