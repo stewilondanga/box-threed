@@ -1,3 +1,7 @@
+html {
+  height: 100%;
+}
+
 /*
 
 .my_social {
@@ -15,9 +19,6 @@
   height: 1.5em;
 }
 
-html {
-  height: 100%;
-}
 img {
   display: none;
 }
